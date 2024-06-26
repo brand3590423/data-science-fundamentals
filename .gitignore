@@ -1,0 +1,7 @@
+# contiene llaves de acceso a la API
+llave.txt
+
+#json con las contraseñas
+contraseña.json
+#json con las llaves de acceso a la API
+llaves.json
